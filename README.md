@@ -36,5 +36,3 @@ Feel free to contribute by submitting issues, feature requests, or pull requests
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spacylion)](https://github.com/Spacylion/github-readme-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spacylion)](https://github.com/Spacylion/github-readme-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Spacylion)
