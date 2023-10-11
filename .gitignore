@@ -1,0 +1,12 @@
+# Ignore package lock files
+package-lock.json
+yarn.lock
+
+# Ignore the 'dist' directory
+/dist/
+
+# Ignore ZIP files
+*.zip
+
+# Ignore node_modules
+node_modules/

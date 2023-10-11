@@ -1,0 +1,63 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+My+Gulp+Boilerplate!)](https://git.io/typing-svg)",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "dev": "gulp",
+    "build": "gulp build --build",
+    "zip": "gulp delpoyZIP --build",
+    "deploy": "gulp delpoyFTP --build",
+    "svgSprive": "gulp svgSprive"
+  },
+  "author": "SpacyLion",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "latest",
+    "del": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-file-include": "latest",
+    "gulp-fonter": "latest",
+    "gulp-group-css-media-queries": "latest",
+    "gulp-if": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-newer": "latest",
+    "gulp-notify": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-replace": "latest",
+    "gulp-sass": "latest",
+    "gulp-svg-sprite": "latest",
+    "gulp-ttf2woff2": "latest",
+    "gulp-util": "latest",
+    "gulp-version-number": "latest",
+    "gulp-webp": "latest",
+    "gulp-webp-html-nosvg": "latest",
+    "gulp-webpcss": "latest",
+    "gulp-zip": "latest",
+    "rimraf": "latest",
+    "sass": "latest",
+    "swiper": "latest",
+    "vinyl-ftp": "latest",
+    "webp-converter": "2.2.3",
+    "webpack": "latest",
+    "webpack-stream": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spacylion/gulp__boilerplate.git"
+  },
+  "keywords": [
+    "gulp",
+    "boilerplate"
+  ],
+  "bugs": {
+    "url": "https://github.com/Spacylion/gulp__boilerplate/issues"
+  },
+  "homepage": "https://github.com/Spacylion/gulp__boilerplate#readme"
+}

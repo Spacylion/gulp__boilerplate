@@ -1,0 +1,8 @@
+{
+    "scss.validate": false, // Disable SCSS validation (optional)
+    "scss.completion.includeImportStatements": true, // Enable autocompletion for @import statements
+    "scss.completion.variables": true, // Enable autocompletion for SCSS variables
+    "scss.completion.properties": true, // Enable autocompletion for SCSS properties
+    "scss.completion.values": true, // Enable autocompletion for SCSS property values
+    "scss.completion.tags": true // Enable autocompletion for HTML tags in SCSS
+}
